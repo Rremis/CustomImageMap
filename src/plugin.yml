@@ -1,0 +1,8 @@
+name: CustomImageMap
+main: fr.rremis.image.CustomImageMap
+version: 0.1
+author: Rremis
+commands:
+  map:
+    description: Create map with a url
+    usage: /map <URL>
